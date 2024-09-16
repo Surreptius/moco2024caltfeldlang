@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PomotodoTodoApp</string>
+
+    <string name="timer_channel_id">pom_timer_channel</string>
+    <string name="alarm_channel_id">pom_alarm_channel</string>
+    <string name="alarmConcentration_channel_id">pom_concentration_channel</string>
+
+    <string name="nav_timer">Timer</string>
+    <string name="nav_todo">Todo</string>
+
+    <string name="timer_start">Start Timer</string>
+    <string name="timer_stop">Stop Timer</string>
+    <string name="timer_restart">Restart Timer</string>
+
+    <string name="todo_switch_completed">Mark as Task as completed</string>
+    <string name="todo_switch_uncompleted">Mark as Task as uncompleted</string>
+    <string name="todo_task_add">Add new Task</string>
+    <string name="todo_task_delete">Delete Task</string>
+    <string name="todo_input_placeholder">Write a task …</string>
+</resources>
